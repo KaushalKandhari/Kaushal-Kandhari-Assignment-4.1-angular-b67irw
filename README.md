@@ -1,3 +1,1 @@
-# Kaushal-Kandhari-Assignment-4.1-angular-b67irw
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-b67irw)
+This Angular tutorial on Stackblitz enabled us to give a preview of an e commerce application interface. The following code allows us to display the products, product descriptions, buttons like share, notify for alerts, etc. This is the code for the sample project on Angular in the Stackblitz interface. 
